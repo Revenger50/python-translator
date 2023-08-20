@@ -37,7 +37,7 @@ Input (inside the code): Hola ... (Spanish)
 
 After Execution:
 
-![Execution Output](execution_output.png)
+![Execution Output](translate_.png)
 
 ## Example
 
